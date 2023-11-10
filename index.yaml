@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  skycentrics-oadr3-ven:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-10T21:03:24.005960233Z"
+    description: A Helm chart for Kubernetes
+    digest: 1f67093ef66656e16e5b54052a0eb99cfa241a1cb993974e565866936ee98f39
+    name: skycentrics-oadr3-ven
+    type: application
+    urls:
+    - https://github.com/carlydf/helm/releases/download/skycentrics-oadr3-ven-0.1.0/skycentrics-oadr3-ven-0.1.0.tgz
+    version: 0.1.0
+  skycentrics-oadr3-vtn:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-10T21:03:24.147144733Z"
+    description: A Helm chart for Kubernetes
+    digest: d22bdeefe6b67baacbe47d7d6bdacdd574c83afa2af4718868f6e83b9cd419d5
+    name: skycentrics-oadr3-vtn
+    type: application
+    urls:
+    - https://github.com/carlydf/helm/releases/download/skycentrics-oadr3-vtn-0.1.0/skycentrics-oadr3-vtn-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-10T21:03:24.147150504Z"
